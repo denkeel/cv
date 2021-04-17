@@ -1,4 +1,5 @@
 # Daniel Shevchenko
 ## Eduaction
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg =50x50)](https://nodesource.com/products/nsolid)
 - University of technology NUST "MISIS". **Associate Degree**.
-- Online school(18 months) of web development.  _(Until now)_
+- One and a half year online school of web development "Geekbrains".  _(Until now)_
