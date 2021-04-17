@@ -5,3 +5,4 @@
 - University of technology NUST "MISIS". **Associate Degree**.
 - One and a half year online school of web development "Geekbrains".  _(Until now)_
 ## About me
+I am into web development. I'm always striving to find new information about web and modern technologies. I'd love to work in a team of right-minded people.
