@@ -1,5 +1,5 @@
 # Daniel Shevchenko
-[![Telegram](https://svgshare.com/i/WJP.svg)](https://t.me/denkeel)
+[![Telegram](https://svgshare.com/i/WJP.svg)](https://t.me/denkeel) 
 [![Instagram](https://svgshare.com/i/WKK.svg)](https://www.instagram.com/denkeel.io/)
 ## Education
 - University of technology NUST "MISIS". **Associate Degree**.
